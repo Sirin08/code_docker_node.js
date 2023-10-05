@@ -107,5 +107,5 @@ app.post('/uploads', function (req, res, next) {
 });
 
 app.listen(3333, function () {
-    console.log("Working on port 7777");
+    console.log("Working on port 3333");
 });
